@@ -1,0 +1,14 @@
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\bin\Debug\net9.0\projeto01.exe
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\bin\Debug\net9.0\projeto01.deps.json
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\bin\Debug\net9.0\projeto01.runtimeconfig.json
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\bin\Debug\net9.0\projeto01.dll
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\bin\Debug\net9.0\projeto01.pdb
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\obj\Debug\net9.0\projeto01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\obj\Debug\net9.0\projeto01.AssemblyInfoInputs.cache
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\obj\Debug\net9.0\projeto01.AssemblyInfo.cs
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\obj\Debug\net9.0\projeto01.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\obj\Debug\net9.0\projeto01.dll
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\obj\Debug\net9.0\refint\projeto01.dll
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\obj\Debug\net9.0\projeto01.pdb
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\obj\Debug\net9.0\projeto01.genruntimeconfig.cache
+C:\Users\Alexandre Liandro\Desktop\projeto csharp\projeto01\obj\Debug\net9.0\ref\projeto01.dll
